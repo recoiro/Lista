@@ -1,0 +1,970 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="M.ESTRENOS HD" tvg-logo="" group-title="SPANISH",M.ESTRENOS HD
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=364&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="M.ESTRENOS FULL HD" tvg-logo="" group-title="SPANISH",M.ESTRENOS FULL HD
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=3805&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="M. ACCION HD" tvg-logo="" group-title="SPANISH",M. ACCION HD
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=358&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="M. ACCIN FULL HD" tvg-logo="" group-title="SPANISH",M. ACCIN FULL HD
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=3799&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="M.COMEDIA HD" tvg-logo="" group-title="SPANISH",M.COMEDIA HD
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=363&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="M.COMEDIA FULL HD" tvg-logo="" group-title="SPANISH",M.COMEDIA FULL HD
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=3804&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="M. DRAMA HD" tvg-logo="" group-title="SPANISH",M. DRAMA HD
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=360&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="M. DRAMA FULL HD" tvg-logo="" group-title="SPANISH",M. DRAMA FULL HD
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=3801&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="M. Cine Espaol" tvg-logo="" group-title="SPANISH",M. Cine Espaol
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=426&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="M. Cine Espaol FULL HD" tvg-logo="" group-title="SPANISH",M. Cine Espaol FULL HD
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=3847&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="M.CineDoc&Roll HD" tvg-logo="" group-title="SPANISH",M.CineDoc&Roll HD
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=437&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="M.CineDoc&Roll FULL HD" tvg-logo="" group-title="SPANISH",M.CineDoc&Roll FULL HD
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=3850&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="M. SERIES HD" tvg-logo="" group-title="SPANISH",M. SERIES HD
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=362&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="M. SERIES FULL HD" tvg-logo="" group-title="SPANISH",M. SERIES FULL HD
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=3803&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="HOLLYWOOD HD" tvg-logo="" group-title="SPANISH",HOLLYWOOD HD
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=354&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="HOLLYWOOD FULL HD" tvg-logo="" group-title="SPANISH",HOLLYWOOD FULL HD
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=3796&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="Paramount Channel" tvg-logo="" group-title="SPANISH",Paramount Channel
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=454&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="Paramount FULL HD" tvg-logo="" group-title="SPANISH",Paramount FULL HD
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=3855&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="TCM HD" tvg-logo="" group-title="SPANISH",TCM HD
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=373&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="TCM FULL HD" tvg-logo="" group-title="SPANISH",TCM FULL HD
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=3813&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="TNT HD" tvg-logo="" group-title="SPANISH",TNT HD
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=375&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="TNT FULL HD" tvg-logo="" group-title="SPANISH",TNT FULL HD
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=3815&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="SUNDANCE TV" tvg-logo="" group-title="SPANISH",SUNDANCE TV
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=456&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="Sundance TV FULL HD" tvg-logo="" group-title="SPANISH",Sundance TV FULL HD
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=3856&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="#0 HD" tvg-logo="" group-title="SPANISH",#0 HD
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=378&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="#0 FULL HD" tvg-logo="" group-title="SPANISH",#0 FULL HD
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=3818&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="M.Seriesmania HD" tvg-logo="" group-title="SPANISH",M.Seriesmania HD
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=368&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="M.Seriesmania FULL HD" tvg-logo="" group-title="SPANISH",M.Seriesmania FULL HD
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=3809&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="FOX HD" tvg-logo="" group-title="SPANISH",FOX HD
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=353&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="FOX FULL HD" tvg-logo="" group-title="SPANISH",FOX FULL HD
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=3795&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="FOX LIFE HD" tvg-logo="" group-title="SPANISH",FOX LIFE HD
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=416&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="Fox Life FULL HD" tvg-logo="" group-title="SPANISH",Fox Life FULL HD
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=3842&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="AMC HD" tvg-logo="" group-title="SPANISH",AMC HD
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=347&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="AMC FULL HD" tvg-logo="" group-title="SPANISH",AMC FULL HD
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=3789&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="AXN HD" tvg-logo="" group-title="SPANISH",AXN HD
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=349&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="AXN FULL HD" tvg-logo="" group-title="SPANISH",AXN FULL HD
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=3791&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="AXN WHITE HD" tvg-logo="" group-title="SPANISH",AXN WHITE HD
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=382&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="AXN WHITE FULL HD" tvg-logo="" group-title="SPANISH",AXN WHITE FULL HD
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=3821&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="XTREM HD" tvg-logo="" group-title="SPANISH",XTREM HD
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26341&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="SOMOS" tvg-logo="" group-title="SPANISH",SOMOS
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26342&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="A3SERIES" tvg-logo="" group-title="SPANISH",A3SERIES
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26343&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="CINE+ 1 HD" tvg-logo="" group-title="SPANISH",CINE+ 1 HD
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26344&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="CINE+ 2 HD" tvg-logo="" group-title="SPANISH",CINE+ 2 HD
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26345&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="SYFY HD" tvg-logo="" group-title="SPANISH",SYFY HD
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=372&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="SYFY FULL HD" tvg-logo="" group-title="SPANISH",SYFY FULL HD
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=3812&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="CALLE 13 HD" tvg-logo="" group-title="SPANISH",CALLE 13 HD
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=350&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="CALLE 13 FULL HD" tvg-logo="" group-title="SPANISH",CALLE 13 FULL HD
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=3792&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="COMEDYCENTRAL HD" tvg-logo="" group-title="SPANISH",COMEDYCENTRAL HD
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=405&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="Comedy Central FULL HD" tvg-logo="" group-title="SPANISH",Comedy Central FULL HD
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=3833&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="COSMO HD" tvg-logo="" group-title="SPANISH",COSMO HD
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=406&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="COSMO FULL HD" tvg-logo="" group-title="SPANISH",COSMO FULL HD
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=3834&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="TOROS HD" tvg-logo="" group-title="SPANISH",TOROS HD
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=376&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="TOROS FULL HD" tvg-logo="" group-title="SPANISH",TOROS FULL HD
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=3816&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="M. LaLiga HD" tvg-logo="" group-title="SPANISH",M. LaLiga HD
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26046&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="M. LaLiga HD+" tvg-logo="" group-title="SPANISH",M. LaLiga HD+
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26248&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="LaLiga HD" tvg-logo="" group-title="SPANISH",LaLiga HD
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26246&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="LALIGATV BAR HD" tvg-logo="" group-title="SPANISH",LALIGATV BAR HD
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=357&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS Espana" tvg-logo="" group-title="SPANISH",beIN SPORTS Espana
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26321&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="M. LaLiga FHD" tvg-logo="" group-title="SPANISH",M. LaLiga FHD
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26042&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="M  LaLiga" tvg-logo="" group-title="SPANISH",M  LaLiga
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26247&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="M. LaLiga" tvg-logo="" group-title="SPANISH",M. LaLiga
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=435&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="Bein Laliga/ beIN Sport" tvg-logo="" group-title="SPANISH",Bein Laliga/ beIN Sport
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=386&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="M. LaLiga 2K" tvg-logo="" group-title="SPANISH",M. LaLiga 2K
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26141&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="M. LaLiga 4K" tvg-logo="" group-title="SPANISH",M. LaLiga 4K
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26142&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="M. LaLiga FULL HD" tvg-logo="" group-title="SPANISH",M. LaLiga FULL HD
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=3849&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="M. LaLiga 1 HD" tvg-logo="" group-title="SPANISH",M. LaLiga 1 HD
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26047&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="M. LaLiga 2 HD" tvg-logo="" group-title="SPANISH",M. LaLiga 2 HD
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26048&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="M. LaLiga 1 FHD" tvg-logo="" group-title="SPANISH",M. LaLiga 1 FHD
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26043&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="M. LaLiga 2 FHD" tvg-logo="" group-title="SPANISH",M. LaLiga 2 FHD
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26045&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="M. LaLiga 3 FHD" tvg-logo="" group-title="SPANISH",M. LaLiga 3 FHD
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26044&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="M. LaLiga 1 FULL HD" tvg-logo="" group-title="SPANISH",M. LaLiga 1 FULL HD
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=24929&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="M. LaLiga 2 (SOLO EVENTOS)" tvg-logo="" group-title="SPANISH",M. LaLiga 2 (SOLO EVENTOS)
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=388&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="M. LaLiga 3 HD" tvg-logo="" group-title="SPANISH",M. LaLiga 3 HD
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=24927&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="M. LaLiga 4 (SOLO EVENTOS)" tvg-logo="" group-title="SPANISH",M. LaLiga 4 (SOLO EVENTOS)
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=390&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="M. LaLiga 5 HD" tvg-logo="" group-title="SPANISH",M. LaLiga 5 HD
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=24926&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="M. LaLiga 6" tvg-logo="" group-title="SPANISH",M. LaLiga 6
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=24925&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="M. LaLiga 7 (SOLO EVENTOS)" tvg-logo="" group-title="SPANISH",M. LaLiga 7 (SOLO EVENTOS)
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=393&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="M. LaLiga 8 (SOLO EVENTOS)" tvg-logo="" group-title="SPANISH",M. LaLiga 8 (SOLO EVENTOS)
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=394&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="M.LCAMPEONES HD" tvg-logo="" group-title="SPANISH",M.LCAMPEONES HD
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=445&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="M.LCAMPEONES HD+" tvg-logo="" group-title="SPANISH",M.LCAMPEONES HD+
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26315&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="M.LCAMPEONES 1080P" tvg-logo="" group-title="SPANISH",M.LCAMPEONES 1080P
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26316&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="M.LCAMPEONES SD" tvg-logo="" group-title="SPANISH",M.LCAMPEONES SD
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26317&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="M.LCAMPEONES" tvg-logo="" group-title="SPANISH",M.LCAMPEONES
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26318&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="M.Lcampeones 4K" tvg-logo="" group-title="SPANISH",M.Lcampeones 4K
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26140&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="M.LCAMPEONES HEVC" tvg-logo="" group-title="SPANISH",M.LCAMPEONES HEVC
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26067&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="M.LCAMPEONES FULL HD" tvg-logo="" group-title="SPANISH",M.LCAMPEONES FULL HD
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26078&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="M.LCAMPEON 1 HD (SOLO EVENTOS)" tvg-logo="" group-title="SPANISH",M.LCAMPEON 1 HD (SOLO EVENTOS)
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=438&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="M.LCAMPEONES 1 SD" tvg-logo="" group-title="SPANISH",M.LCAMPEONES 1 SD
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26319&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="M.LCAMPEON 1 FULL HD" tvg-logo="" group-title="SPANISH",M.LCAMPEON 1 FULL HD
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26079&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="M.LCAMPEON 1 4K" tvg-logo="" group-title="SPANISH",M.LCAMPEON 1 4K
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26175&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="M.LCAMPEON 2 HD (SOLO EVENTOS)" tvg-logo="" group-title="SPANISH",M.LCAMPEON 2 HD (SOLO EVENTOS)
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=439&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name=" M.LCAMPEON 2  SD" tvg-logo="" group-title="SPANISH", M.LCAMPEON 2  SD
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26320&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="M.LCAMPEON2 FULL HD" tvg-logo="" group-title="SPANISH",M.LCAMPEON2 FULL HD
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26080&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="M.LCAMPEON 3 (SOLO EVENTOS)" tvg-logo="" group-title="SPANISH",M.LCAMPEON 3 (SOLO EVENTOS)
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=440&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="M.LCAMPEON3 FULL HD" tvg-logo="" group-title="SPANISH",M.LCAMPEON3 FULL HD
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26081&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="M.LCAMPEON 4 (SOLO EVENTOS)" tvg-logo="" group-title="SPANISH",M.LCAMPEON 4 (SOLO EVENTOS)
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=441&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="M.LCAMPEON4 FULL HD" tvg-logo="" group-title="SPANISH",M.LCAMPEON4 FULL HD
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26082&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="M.LCAMPEON 5 (SOLO EVENTOS)" tvg-logo="" group-title="SPANISH",M.LCAMPEON 5 (SOLO EVENTOS)
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=442&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="M.LCAMPEON5 FULL HD" tvg-logo="" group-title="SPANISH",M.LCAMPEON5 FULL HD
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26083&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="M.LCAMPEON 6 (SOLO EVENTOS)" tvg-logo="" group-title="SPANISH",M.LCAMPEON 6 (SOLO EVENTOS)
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=443&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="M.LCAMPEON6 FULL HD" tvg-logo="" group-title="SPANISH",M.LCAMPEON6 FULL HD
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26084&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="M.LCAMPEON 7 (SOLO EVENTOS)" tvg-logo="" group-title="SPANISH",M.LCAMPEON 7 (SOLO EVENTOS)
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=444&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="M.LCAMPEON7 FULL HD" tvg-logo="" group-title="SPANISH",M.LCAMPEON7 FULL HD
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26085&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="M.LCAMPEON8 FULL HD" tvg-logo="" group-title="SPANISH",M.LCAMPEON8 FULL HD
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26086&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="M. LaLiga 9 HD" tvg-logo="" group-title="SPANISH",M. LaLiga 9 HD
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=24924&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="M. LaLiga 10" tvg-logo="" group-title="SPANISH",M. LaLiga 10
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=24928&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="#VAMOS HD" tvg-logo="" group-title="SPANISH",#VAMOS HD
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=379&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="#VAMOS FULL HD" tvg-logo="" group-title="SPANISH",#VAMOS FULL HD
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=3819&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name=" #VAMOS BAR1 " tvg-logo="" group-title="SPANISH", #VAMOS BAR1 
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26268&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="#VAMOS BAR 1 (SOLO EVENTOS)" tvg-logo="" group-title="SPANISH",#VAMOS BAR 1 (SOLO EVENTOS)
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=424&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="#VAMOS BAR2 (SOLO EVENTOS)" tvg-logo="" group-title="SPANISH",#VAMOS BAR2 (SOLO EVENTOS)
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=436&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="|IT| SKY SPORT 1 FHD" tvg-logo="" group-title="SPANISH",|IT| SKY SPORT 1 FHD
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26617&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="|IT| SKY SPORT SERIE  HD" tvg-logo="" group-title="SPANISH",|IT| SKY SPORT SERIE  HD
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26618&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="|UK| SKY SPORTS MAIN EVENT" tvg-logo="" group-title="SPANISH",|UK| SKY SPORTS MAIN EVENT
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26615&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="|UK FHD| SKY SPORTS MAIN EVENT FHD" tvg-logo="" group-title="SPANISH",|UK FHD| SKY SPORTS MAIN EVENT FHD
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26616&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="DAZN F1 HD" tvg-logo="" group-title="SPANISH",DAZN F1 HD
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26626&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="DAZN F1 FULL HD" tvg-logo="" group-title="SPANISH",DAZN F1 FULL HD
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26627&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 1 ESP" tvg-logo="" group-title="SPANISH",DAZN 1 ESP
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=24923&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 1 FULL HD" tvg-logo="" group-title="SPANISH",DAZN 1 FULL HD
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26623&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 1 4K" tvg-logo="" group-title="SPANISH",DAZN 1 4K
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26621&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 2 ESP" tvg-logo="" group-title="SPANISH",DAZN 2 ESP
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=24922&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 2 FULL HD" tvg-logo="" group-title="SPANISH",DAZN 2 FULL HD
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26624&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 2 4K" tvg-logo="" group-title="SPANISH",DAZN 2 4K
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26622&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 3 ESP" tvg-logo="" group-title="SPANISH",DAZN 3 ESP
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26163&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 4 ESP" tvg-logo="" group-title="SPANISH",DAZN 4 ESP
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26164&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 5 ESP" tvg-logo="" group-title="SPANISH",DAZN 5 ESP
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26171&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 1 ( SOLO FUNCIONA CUANDO HAY EVENTOS )" tvg-logo="" group-title="SPANISH",DAZN 1 ( SOLO FUNCIONA CUANDO HAY EVENTOS )
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26299&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 2 ( SOLO FUNCIONA CUANDO HAY EVENTOS )" tvg-logo="" group-title="SPANISH",DAZN 2 ( SOLO FUNCIONA CUANDO HAY EVENTOS )
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26300&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 3 ( SOLO FUNCIONA CUANDO HAY EVENTOS )" tvg-logo="" group-title="SPANISH",DAZN 3 ( SOLO FUNCIONA CUANDO HAY EVENTOS )
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26301&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 4 ( SOLO FUNCIONA CUANDO HAY EVENTOS )" tvg-logo="" group-title="SPANISH",DAZN 4 ( SOLO FUNCIONA CUANDO HAY EVENTOS )
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26302&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 5 ( SOLO FUNCIONA CUANDO HAY EVENTOS )" tvg-logo="" group-title="SPANISH",DAZN 5 ( SOLO FUNCIONA CUANDO HAY EVENTOS )
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26303&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 6 ( SOLO FUNCIONA CUANDO HAY EVENTOS )" tvg-logo="" group-title="SPANISH",DAZN 6 ( SOLO FUNCIONA CUANDO HAY EVENTOS )
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26304&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 8 ( SOLO FUNCIONA CUANDO HAY EVENTOS )" tvg-logo="" group-title="SPANISH",DAZN 8 ( SOLO FUNCIONA CUANDO HAY EVENTOS )
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26305&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 9 ( SOLO FUNCIONA CUANDO HAY EVENTOS )" tvg-logo="" group-title="SPANISH",DAZN 9 ( SOLO FUNCIONA CUANDO HAY EVENTOS )
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26306&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 10 ( SOLO FUNCIONA CUANDO HAY EVENTOS )" tvg-logo="" group-title="SPANISH",DAZN 10 ( SOLO FUNCIONA CUANDO HAY EVENTOS )
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26307&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 11 ( SOLO FUNCIONA CUANDO HAY EVENTOS )" tvg-logo="" group-title="SPANISH",DAZN 11 ( SOLO FUNCIONA CUANDO HAY EVENTOS )
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26308&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="LALIGA TV BAR 1  (SOLO EVENTOS)" tvg-logo="" group-title="SPANISH",LALIGA TV BAR 1  (SOLO EVENTOS)
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=423&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="LALIGA TV BAR 2" tvg-logo="" group-title="SPANISH",LALIGA TV BAR 2
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=24931&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="LALIGA TV BAR 3" tvg-logo="" group-title="SPANISH",LALIGA TV BAR 3
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=24930&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="LALIGA TV BAR 4  (SOLO EVENTOS)" tvg-logo="" group-title="SPANISH",LALIGA TV BAR 4  (SOLO EVENTOS)
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=422&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 1 HD" tvg-logo="" group-title="SPANISH",EUROSPORT 1 HD
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=352&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT1 FULL HD" tvg-logo="" group-title="SPANISH",EUROSPORT1 FULL HD
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=3794&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 2" tvg-logo="" group-title="SPANISH",EUROSPORT 2
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=414&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="M. DEPORTESHD" tvg-logo="" group-title="SPANISH",M. DEPORTESHD
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=359&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="M. DEPORTES FULL HD" tvg-logo="" group-title="SPANISH",M. DEPORTES FULL HD
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=3800&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="M. DEPORTES1HD (SOLO EVENTOS)" tvg-logo="" group-title="SPANISH",M. DEPORTES1HD (SOLO EVENTOS)
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=427&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="M. DEPORTES2 (SOLO EVENTOS)" tvg-logo="" group-title="SPANISH",M. DEPORTES2 (SOLO EVENTOS)
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=428&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="M. DEPORTES3 (SOLO EVENTOS)" tvg-logo="" group-title="SPANISH",M. DEPORTES3 (SOLO EVENTOS)
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=429&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="M. DEPORTES4 (SOLO EVENTOS)" tvg-logo="" group-title="SPANISH",M. DEPORTES4 (SOLO EVENTOS)
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=430&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="M. DEPORTES5 (SOLO EVENTOS)" tvg-logo="" group-title="SPANISH",M. DEPORTES5 (SOLO EVENTOS)
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=431&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="M. DEPORTES6 (SOLO EVENTOS)" tvg-logo="" group-title="SPANISH",M. DEPORTES6 (SOLO EVENTOS)
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=432&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="M. DEPORTES7 (SOLO EVENTOS)" tvg-logo="" group-title="SPANISH",M. DEPORTES7 (SOLO EVENTOS)
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=433&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="MULTIDEPORTE" tvg-logo="" group-title="SPANISH",MULTIDEPORTE
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=449&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="TELEDEPORTE" tvg-logo="" group-title="SPANISH",TELEDEPORTE
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=457&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="Teledeporte FULL HD" tvg-logo="" group-title="SPANISH",Teledeporte FULL HD
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=3857&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="Barca tv" tvg-logo="" group-title="SPANISH",Barca tv
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=384&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="Barca tv FULL HD" tvg-logo="" group-title="SPANISH",Barca tv FULL HD
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=3823&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="R. Madrid" tvg-logo="" group-title="SPANISH",R. Madrid
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=455&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="M.MOTOGP FULL HD" tvg-logo="" group-title="SPANISH",M.MOTOGP FULL HD
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=3807&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="M.FORMULA 1 HD" tvg-logo="" group-title="SPANISH",M.FORMULA 1 HD
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=365&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="M.FORMULA1 FULL HD" tvg-logo="" group-title="SPANISH",M.FORMULA1 FULL HD
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=3806&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="M. GOLF HD" tvg-logo="" group-title="SPANISH",M. GOLF HD
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=361&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="M. GOLF FULL HD" tvg-logo="" group-title="SPANISH",M. GOLF FULL HD
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=3802&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="Gol" tvg-logo="" group-title="SPANISH",Gol
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=418&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="GOL FULL HD" tvg-logo="" group-title="SPANISH",GOL FULL HD
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=3843&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="TRECE" tvg-logo="" group-title="SPANISH",TRECE
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=25853&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="PTV MALAGA" tvg-logo="" group-title="SPANISH",PTV MALAGA
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=25852&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="mega" tvg-logo="" group-title="SPANISH",mega
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=25854&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="CanalSurHD" tvg-logo="" group-title="SPANISH",CanalSurHD
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=25851&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="CanalSur2" tvg-logo="" group-title="SPANISH",CanalSur2
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=25850&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="CANAL TORREVISION" tvg-logo="" group-title="SPANISH",CANAL TORREVISION
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=25849&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="BOM" tvg-logo="" group-title="SPANISH",BOM
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=25848&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="AndaluciaTV" tvg-logo="" group-title="SPANISH",AndaluciaTV
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=25847&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="7TV ANDALUCIA" tvg-logo="" group-title="SPANISH",7TV ANDALUCIA
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=25846&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO HD" tvg-logo="" group-title="SPANISH",NAT GEO HD
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=370&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO FULL HD" tvg-logo="" group-title="SPANISH",NAT GEO FULL HD
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=3810&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="NG WILD HD" tvg-logo="" group-title="SPANISH",NG WILD HD
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=371&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="NG WILD FULL HD" tvg-logo="" group-title="SPANISH",NG WILD FULL HD
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=3811&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="CAZAyPESCA HD" tvg-logo="" group-title="SPANISH",CAZAyPESCA HD
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=402&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="CAZAyPESCA FULL HD" tvg-logo="" group-title="SPANISH",CAZAyPESCA FULL HD
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=3831&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY" tvg-logo="" group-title="SPANISH",DISCOVERY
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=408&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="Discovery FULL HD" tvg-logo="" group-title="SPANISH",Discovery FULL HD
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=3836&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="Crimen Invest" tvg-logo="" group-title="SPANISH",Crimen Invest
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=407&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="CRIMEN INVES FULL HD" tvg-logo="" group-title="SPANISH",CRIMEN INVES FULL HD
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=3835&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="VIAJAR HD" tvg-logo="" group-title="SPANISH",VIAJAR HD
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=377&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="Viajar FULL HD" tvg-logo="" group-title="SPANISH",Viajar FULL HD
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=3817&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="DreamWorks HD" tvg-logo="" group-title="SPANISH",DreamWorks HD
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26625&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="Disney CH FULL HD" tvg-logo="" group-title="SPANISH",Disney CH FULL HD
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=3837&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="NICKELODEONHD" tvg-logo="" group-title="SPANISH",NICKELODEONHD
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=452&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon FULL HD" tvg-logo="" group-title="SPANISH",Nickelodeon FULL HD
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=3853&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="BOING" tvg-logo="" group-title="SPANISH",BOING
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=396&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="BOING FULL HD" tvg-logo="" group-title="SPANISH",BOING FULL HD
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=3826&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="BABY TV" tvg-logo="" group-title="SPANISH",BABY TV
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=383&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="BABY TV FULL HD" tvg-logo="" group-title="SPANISH",BABY TV FULL HD
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=3822&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY JR" tvg-logo="" group-title="SPANISH",DISNEY JR
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=410&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="Disney JR FULL HD" tvg-logo="" group-title="SPANISH",Disney JR FULL HD
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=3838&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="NICK JR" tvg-logo="" group-title="SPANISH",NICK JR
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=451&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="Nick Jr FULL HD" tvg-logo="" group-title="SPANISH",Nick Jr FULL HD
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=3852&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY CH HD" tvg-logo="" group-title="SPANISH",DISNEY CH HD
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=434&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="CANAL PANDA" tvg-logo="" group-title="SPANISH",CANAL PANDA
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=401&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="Canal Panda FULL HD" tvg-logo="" group-title="SPANISH",Canal Panda FULL HD
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=3830&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="FOX NEWS" tvg-logo="" group-title="SPANISH",FOX NEWS
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=417&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="CLAN  TVE" tvg-logo="" group-title="SPANISH",CLAN  TVE
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=403&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="ARAGON TV INT" tvg-logo="" group-title="SPANISH",ARAGON TV INT
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=381&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="ARAGON TV FULL HD" tvg-logo="" group-title="SPANISH",ARAGON TV FULL HD
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=3820&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="BLAZE" tvg-logo="" group-title="SPANISH",BLAZE
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=395&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="BLAZE FULL HD" tvg-logo="" group-title="SPANISH",BLAZE FULL HD
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=3825&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="BE MAD" tvg-logo="" group-title="SPANISH",BE MAD
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=385&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="BE MAD" tvg-logo="" group-title="SPANISH",BE MAD
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=1607&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="BE MAD FULL HD" tvg-logo="" group-title="SPANISH",BE MAD FULL HD
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=3824&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="FDF" tvg-logo="" group-title="SPANISH",FDF
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=415&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="FDF FULL HD" tvg-logo="" group-title="SPANISH",FDF FULL HD
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=3841&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="Energy" tvg-logo="" group-title="SPANISH",Energy
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=413&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="Energy FULL HD" tvg-logo="" group-title="SPANISH",Energy FULL HD
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=3840&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="DIVINITY" tvg-logo="" group-title="SPANISH",DIVINITY
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=412&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="Divinity FULL HD" tvg-logo="" group-title="SPANISH",Divinity FULL HD
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=3839&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="Clan TVE FULL HD" tvg-logo="" group-title="SPANISH",Clan TVE FULL HD
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=3832&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="CANAL ODISEA" tvg-logo="" group-title="SPANISH",CANAL ODISEA
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=399&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="Canal odisea FULL HD" tvg-logo="" group-title="SPANISH",Canal odisea FULL HD
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=3829&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="CANAL DECASA" tvg-logo="" group-title="SPANISH",CANAL DECASA
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=398&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="Canal Decasa FULL HD" tvg-logo="" group-title="SPANISH",Canal Decasa FULL HD
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=3828&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="CANAL COCINA" tvg-logo="" group-title="SPANISH",CANAL COCINA
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=397&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="Canal COCINA FULL HD" tvg-logo="" group-title="SPANISH",Canal COCINA FULL HD
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=3827&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="Neox" tvg-logo="" group-title="SPANISH",Neox
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=450&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="Neox FULL HD" tvg-logo="" group-title="SPANISH",Neox FULL HD
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=3851&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="NOVA" tvg-logo="" group-title="SPANISH",NOVA
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=453&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="NOVA FULL HD" tvg-logo="" group-title="SPANISH",NOVA FULL HD
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=3854&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR+ MARVEL 1" tvg-logo="" group-title="SPANISH",MOVISTAR+ MARVEL 1
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26325&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR+ MARVEL 2" tvg-logo="" group-title="SPANISH",MOVISTAR+ MARVEL 2
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26326&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR+ MARVEL 3" tvg-logo="" group-title="SPANISH",MOVISTAR+ MARVEL 3
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26327&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR+ MARVEL 4" tvg-logo="" group-title="SPANISH",MOVISTAR+ MARVEL 4
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26328&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR+ MARVEL 5" tvg-logo="" group-title="SPANISH",MOVISTAR+ MARVEL 5
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26329&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="Super Movie 1" tvg-logo="" group-title="SPANISH",Super Movie 1
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26330&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="Super Movie 2" tvg-logo="" group-title="SPANISH",Super Movie 2
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26331&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="Super Movie 3" tvg-logo="" group-title="SPANISH",Super Movie 3
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26332&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="Super Movie 4" tvg-logo="" group-title="SPANISH",Super Movie 4
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26333&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="Super Movie 5" tvg-logo="" group-title="SPANISH",Super Movie 5
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26334&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="Super Movie 6" tvg-logo="" group-title="SPANISH",Super Movie 6
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26335&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="Super Movie 7" tvg-logo="" group-title="SPANISH",Super Movie 7
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26336&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="Super Movie 8" tvg-logo="" group-title="SPANISH",Super Movie 8
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26337&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="Super Movie 9" tvg-logo="" group-title="SPANISH",Super Movie 9
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26338&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="Super Movie 10" tvg-logo="" group-title="SPANISH",Super Movie 10
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26339&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="Super Movie 11" tvg-logo="" group-title="SPANISH",Super Movie 11
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26513&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="Super Movie 12" tvg-logo="" group-title="SPANISH",Super Movie 12
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26619&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="Netflix 1" tvg-logo="" group-title="SPANISH",Netflix 1
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26282&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="Netflix 2" tvg-logo="" group-title="SPANISH",Netflix 2
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26283&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="Netflix 3" tvg-logo="" group-title="SPANISH",Netflix 3
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26284&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="Netflix 4" tvg-logo="" group-title="SPANISH",Netflix 4
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26285&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="Netflix 5" tvg-logo="" group-title="SPANISH",Netflix 5
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26288&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="Netflix 6" tvg-logo="" group-title="SPANISH",Netflix 6
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26289&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="Netflix 7" tvg-logo="" group-title="SPANISH",Netflix 7
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26311&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="Netflix 8" tvg-logo="" group-title="SPANISH",Netflix 8
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26312&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="Netflix 9" tvg-logo="" group-title="SPANISH",Netflix 9
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26313&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="Netflix 10" tvg-logo="" group-title="SPANISH",Netflix 10
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26314&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="New Alquiler 4K 1" tvg-logo="" group-title="SPANISH",New Alquiler 4K 1
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26182&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="New Alquiler 4K 2" tvg-logo="" group-title="SPANISH",New Alquiler 4K 2
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26183&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="New Alquiler 4K 3" tvg-logo="" group-title="SPANISH",New Alquiler 4K 3
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26184&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="New Alquiler 4K 4" tvg-logo="" group-title="SPANISH",New Alquiler 4K 4
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26185&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="New Alquiler 4K 5" tvg-logo="" group-title="SPANISH",New Alquiler 4K 5
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26186&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="New Alquiler 4K 6" tvg-logo="" group-title="SPANISH",New Alquiler 4K 6
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26187&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="New Alquiler 1" tvg-logo="" group-title="SPANISH",New Alquiler 1
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26143&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="New Alquiler 2" tvg-logo="" group-title="SPANISH",New Alquiler 2
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26144&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="New Alquiler 3" tvg-logo="" group-title="SPANISH",New Alquiler 3
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26145&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="New Alquiler 4" tvg-logo="" group-title="SPANISH",New Alquiler 4
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26146&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="New Alquiler 5" tvg-logo="" group-title="SPANISH",New Alquiler 5
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26147&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="New Alquiler 6" tvg-logo="" group-title="SPANISH",New Alquiler 6
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26148&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="New Alquiler 7" tvg-logo="" group-title="SPANISH",New Alquiler 7
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26149&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="New Alquiler 8" tvg-logo="" group-title="SPANISH",New Alquiler 8
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26173&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="New Alquiler 9" tvg-logo="" group-title="SPANISH",New Alquiler 9
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26174&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="New Alquiler 10" tvg-logo="" group-title="SPANISH",New Alquiler 10
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26201&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="New Alquiler 11" tvg-logo="" group-title="SPANISH",New Alquiler 11
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26202&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="New Alquiler 12" tvg-logo="" group-title="SPANISH",New Alquiler 12
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26203&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="New Alquiler 13" tvg-logo="" group-title="SPANISH",New Alquiler 13
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26204&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="New Alquiler 14" tvg-logo="" group-title="SPANISH",New Alquiler 14
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26213&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="New Alquiler 15" tvg-logo="" group-title="SPANISH",New Alquiler 15
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26219&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="New Alquiler 16" tvg-logo="" group-title="SPANISH",New Alquiler 16
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26220&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="New Alquiler 17" tvg-logo="" group-title="SPANISH",New Alquiler 17
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26221&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="New Alquiler 18" tvg-logo="" group-title="SPANISH",New Alquiler 18
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26223&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="New Alquiler 19" tvg-logo="" group-title="SPANISH",New Alquiler 19
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26224&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="New Alquiler 20" tvg-logo="" group-title="SPANISH",New Alquiler 20
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26225&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="New Alquiler 21" tvg-logo="" group-title="SPANISH",New Alquiler 21
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26226&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="New Alquiler 22" tvg-logo="" group-title="SPANISH",New Alquiler 22
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26227&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="New Alquiler 23" tvg-logo="" group-title="SPANISH",New Alquiler 23
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26228&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="New Alquiler 24" tvg-logo="" group-title="SPANISH",New Alquiler 24
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26229&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="New Alquiler 25" tvg-logo="" group-title="SPANISH",New Alquiler 25
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26231&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="New Alquiler 26" tvg-logo="" group-title="SPANISH",New Alquiler 26
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26232&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="New Alquiler 27" tvg-logo="" group-title="SPANISH",New Alquiler 27
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26233&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="New Alquiler 28" tvg-logo="" group-title="SPANISH",New Alquiler 28
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26234&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="New Alquiler 29" tvg-logo="" group-title="SPANISH",New Alquiler 29
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26235&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="New Alquiler 30" tvg-logo="" group-title="SPANISH",New Alquiler 30
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26236&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="New Alquiler 31" tvg-logo="" group-title="SPANISH",New Alquiler 31
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26240&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="New Alquiler 32" tvg-logo="" group-title="SPANISH",New Alquiler 32
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26241&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="New Alquiler 33" tvg-logo="" group-title="SPANISH",New Alquiler 33
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26242&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="New Alquiler 34" tvg-logo="" group-title="SPANISH",New Alquiler 34
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26244&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="New Alquiler 35" tvg-logo="" group-title="SPANISH",New Alquiler 35
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26245&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="New Alquiler 36" tvg-logo="" group-title="SPANISH",New Alquiler 36
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26243&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="New Alquiler 37" tvg-logo="" group-title="SPANISH",New Alquiler 37
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26273&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="movistar infantiles 1" tvg-logo="" group-title="SPANISH",movistar infantiles 1
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26205&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="movistar infantiles 2" tvg-logo="" group-title="SPANISH",movistar infantiles 2
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26206&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="movistar infantiles 3" tvg-logo="" group-title="SPANISH",movistar infantiles 3
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26207&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="movistar infantiles 4" tvg-logo="" group-title="SPANISH",movistar infantiles 4
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26208&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="movistar infantiles 5" tvg-logo="" group-title="SPANISH",movistar infantiles 5
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26209&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="movistar infantiles 6" tvg-logo="" group-title="SPANISH",movistar infantiles 6
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26210&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="movistar infantiles 7" tvg-logo="" group-title="SPANISH",movistar infantiles 7
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26211&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="movistar infantiles 8" tvg-logo="" group-title="SPANISH",movistar infantiles 8
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26212&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="movistar infantiles 9" tvg-logo="" group-title="SPANISH",movistar infantiles 9
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26620&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="Peliculas de Ciencia ficcion HD 1" tvg-logo="" group-title="SPANISH",Peliculas de Ciencia ficcion HD 1
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26134&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="Peliculas de Ciencia ficcion HD 2 " tvg-logo="" group-title="SPANISH",Peliculas de Ciencia ficcion HD 2 
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26135&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="Peliculas de Ciencia ficcion HD 3" tvg-logo="" group-title="SPANISH",Peliculas de Ciencia ficcion HD 3
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26136&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="Peliculas de Ciencia ficcion HD 4" tvg-logo="" group-title="SPANISH",Peliculas de Ciencia ficcion HD 4
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26137&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="Peliculas de Ciencia ficcion HD 5" tvg-logo="" group-title="SPANISH",Peliculas de Ciencia ficcion HD 5
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26138&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="Peliculas Action HD 1" tvg-logo="" group-title="SPANISH",Peliculas Action HD 1
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26114&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="Peliculas Action HD 2" tvg-logo="" group-title="SPANISH",Peliculas Action HD 2
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26115&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="Peliculas Action HD 3" tvg-logo="" group-title="SPANISH",Peliculas Action HD 3
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26116&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="Peliculas Action HD 4" tvg-logo="" group-title="SPANISH",Peliculas Action HD 4
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26117&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="Peliculas Action HD 5" tvg-logo="" group-title="SPANISH",Peliculas Action HD 5
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26118&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="Peliculas Action HD 6" tvg-logo="" group-title="SPANISH",Peliculas Action HD 6
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26119&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="Box  Office 1" tvg-logo="" group-title="SPANISH",Box  Office 1
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26104&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="Box  Office 2" tvg-logo="" group-title="SPANISH",Box  Office 2
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26105&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="Box  Office 3" tvg-logo="" group-title="SPANISH",Box  Office 3
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26106&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="Box  Office 4" tvg-logo="" group-title="SPANISH",Box  Office 4
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26107&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="Box  Office 5" tvg-logo="" group-title="SPANISH",Box  Office 5
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26108&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="Box  Office 6" tvg-logo="" group-title="SPANISH",Box  Office 6
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26109&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="Box  Office 7" tvg-logo="" group-title="SPANISH",Box  Office 7
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26110&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="Box  Office 8" tvg-logo="" group-title="SPANISH",Box  Office 8
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26111&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="Box  Office 9" tvg-logo="" group-title="SPANISH",Box  Office 9
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26112&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="Box  Office 10" tvg-logo="" group-title="SPANISH",Box  Office 10
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26113&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="Alquiler HD 1" tvg-logo="" group-title="SPANISH",Alquiler HD 1
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26094&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="Alquiler HD 2" tvg-logo="" group-title="SPANISH",Alquiler HD 2
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26095&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="Alquiler HD 3" tvg-logo="" group-title="SPANISH",Alquiler HD 3
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26096&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="Alquiler HD 4" tvg-logo="" group-title="SPANISH",Alquiler HD 4
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26097&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="Alquiler HD 5" tvg-logo="" group-title="SPANISH",Alquiler HD 5
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26098&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="Alquiler HD 6" tvg-logo="" group-title="SPANISH",Alquiler HD 6
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26099&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="Alquiler HD 7" tvg-logo="" group-title="SPANISH",Alquiler HD 7
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26100&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="Alquiler HD 8" tvg-logo="" group-title="SPANISH",Alquiler HD 8
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26101&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="Alquiler HD 9" tvg-logo="" group-title="SPANISH",Alquiler HD 9
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26102&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="Alquiler HD 10" tvg-logo="" group-title="SPANISH",Alquiler HD 10
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26103&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="Peliculas Action HD 1" tvg-logo="" group-title="SPANISH",Peliculas Action HD 1
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26120&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="Peliculas Action HD 2" tvg-logo="" group-title="SPANISH",Peliculas Action HD 2
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26121&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="Peliculas Action HD 3" tvg-logo="" group-title="SPANISH",Peliculas Action HD 3
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26122&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="Peliculas Action HD 4" tvg-logo="" group-title="SPANISH",Peliculas Action HD 4
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26123&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="Peliculas Action HD 5" tvg-logo="" group-title="SPANISH",Peliculas Action HD 5
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26124&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR CINE 1 HD" tvg-logo="" group-title="SPANISH",MOVISTAR CINE 1 HD
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26088&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR  CINE 2 HD" tvg-logo="" group-title="SPANISH",MOVISTAR  CINE 2 HD
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26089&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR  CINE 3 HD" tvg-logo="" group-title="SPANISH",MOVISTAR  CINE 3 HD
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26090&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR  CINE 4 HD" tvg-logo="" group-title="SPANISH",MOVISTAR  CINE 4 HD
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26091&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR  CINE 5 HD" tvg-logo="" group-title="SPANISH",MOVISTAR  CINE 5 HD
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26092&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR  CINE 6 HD" tvg-logo="" group-title="SPANISH",MOVISTAR  CINE 6 HD
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26093&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="Peliculas Comedia HD 1" tvg-logo="" group-title="SPANISH",Peliculas Comedia HD 1
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26125&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="Peliculas Comedia HD 2" tvg-logo="" group-title="SPANISH",Peliculas Comedia HD 2
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26126&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="Peliculas Comedia HD 3" tvg-logo="" group-title="SPANISH",Peliculas Comedia HD 3
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26128&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="Peliculas Comedia HD 4" tvg-logo="" group-title="SPANISH",Peliculas Comedia HD 4
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26127&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="Cinelatino HD 1" tvg-logo="" group-title="SPANISH",Cinelatino HD 1
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26167&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="Cinelatino HD 2" tvg-logo="" group-title="SPANISH",Cinelatino HD 2
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26168&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="Cinelatino HD 3" tvg-logo="" group-title="SPANISH",Cinelatino HD 3
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26169&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="Cinelatino HD 4" tvg-logo="" group-title="SPANISH",Cinelatino HD 4
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26170&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="Cinelatino HD 5" tvg-logo="" group-title="SPANISH",Cinelatino HD 5
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26216&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="Cinelatino HD 6" tvg-logo="" group-title="SPANISH",Cinelatino HD 6
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26217&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="Cinelatino HD 7" tvg-logo="" group-title="SPANISH",Cinelatino HD 7
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26218&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="Trailer 2020" tvg-logo="" group-title="SPANISH",Trailer 2020
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26239&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Ana" tvg-logo="" group-title="SPANISH",24/7 Ana
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26595&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Alerta Aeropuerto" tvg-logo="" group-title="SPANISH",24/7 Alerta Aeropuerto
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26596&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Altered Carbon" tvg-logo="" group-title="SPANISH",24/7 Altered Carbon
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26597&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Ash vs Evil Dead" tvg-logo="" group-title="SPANISH",24/7 Ash vs Evil Dead
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26598&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Big Bang" tvg-logo="" group-title="SPANISH",24/7 Big Bang
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26599&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Juego de tronos" tvg-logo="" group-title="SPANISH",24/7 Juego de tronos
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26404&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Jessica Jones" tvg-logo="" group-title="SPANISH",24/7 Jessica Jones
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26405&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Narcos" tvg-logo="" group-title="SPANISH",24/7 Narcos
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26406&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Absentia" tvg-logo="" group-title="SPANISH",24/7 Absentia
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26346&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Beowulf Return to the Shieldlands" tvg-logo="" group-title="SPANISH",24/7 Beowulf Return to the Shieldlands
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26347&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Black Sails" tvg-logo="" group-title="SPANISH",24/7 Black Sails
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26348&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Bolivar" tvg-logo="" group-title="SPANISH",24/7 Bolivar
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26349&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="24/7 La casa de papel" tvg-logo="" group-title="SPANISH",24/7 La casa de papel
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26356&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Hawaii 5-0" tvg-logo="" group-title="SPANISH",24/7 Hawaii 5-0
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26357&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Wu Assassins" tvg-logo="" group-title="SPANISH",24/7 Wu Assassins
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26361&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="24/7 NCIS Criminologia Naval" tvg-logo="" group-title="SPANISH",24/7 NCIS Criminologia Naval
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26358&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="24/7 NCIS Los Angeles" tvg-logo="" group-title="SPANISH",24/7 NCIS Los Angeles
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26359&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Vikingos " tvg-logo="" group-title="SPANISH",24/7 Vikingos 
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26360&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Bones" tvg-logo="" group-title="SPANISH",24/7 Bones
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26350&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Breaking Bad" tvg-logo="" group-title="SPANISH",24/7 Breaking Bad
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26351&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Castle" tvg-logo="" group-title="SPANISH",24/7 Castle
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26352&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Chernobyl" tvg-logo="" group-title="SPANISH",24/7 Chernobyl
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26353&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Cosmos" tvg-logo="" group-title="SPANISH",24/7 Cosmos
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26354&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="24/7 CSI_Miami" tvg-logo="" group-title="SPANISH",24/7 CSI_Miami
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26355&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Masha y el Oso" tvg-logo="" group-title="SPANISH",24/7 Masha y el Oso
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26309&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="24/7 El Bombero Sam" tvg-logo="" group-title="SPANISH",24/7 El Bombero Sam
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26310&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="24/7 La Patrulla Canina 1" tvg-logo="" group-title="SPANISH",24/7 La Patrulla Canina 1
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26290&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="24/7 La Patrulla Canina 2" tvg-logo="" group-title="SPANISH",24/7 La Patrulla Canina 2
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26291&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Peppa Pig 1" tvg-logo="" group-title="SPANISH",24/7 Peppa Pig 1
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26292&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Peppa Pig 2" tvg-logo="" group-title="SPANISH",24/7 Peppa Pig 2
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26293&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Blood & Water" tvg-logo="" group-title="SPANISH",24/7 Blood & Water
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26249&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Carta al rey" tvg-logo="" group-title="SPANISH",24/7 Carta al rey
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26250&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="24/7 DARK" tvg-logo="" group-title="SPANISH",24/7 DARK
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26251&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Desaparecidos" tvg-logo="" group-title="SPANISH",24/7 Desaparecidos
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26252&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="24/7 El Ultimo baile" tvg-logo="" group-title="SPANISH",24/7 El Ultimo baile
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26253&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="24/7 The First" tvg-logo="" group-title="SPANISH",24/7 The First
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26286&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="24/7 The Five" tvg-logo="" group-title="SPANISH",24/7 The Five
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26287&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="24/7 FBI" tvg-logo="" group-title="SPANISH",24/7 FBI
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26277&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Rogue" tvg-logo="" group-title="SPANISH",24/7 Rogue
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26278&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Station 19" tvg-logo="" group-title="SPANISH",24/7 Station 19
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26279&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Blindspot" tvg-logo="" group-title="SPANISH",24/7 Blindspot
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26274&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Supergirl" tvg-logo="" group-title="SPANISH",24/7 Supergirl
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26280&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Fernando" tvg-logo="" group-title="SPANISH",24/7 Fernando
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26254&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Jugando con fuego" tvg-logo="" group-title="SPANISH",24/7 Jugando con fuego
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26256&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Lenox Hill" tvg-logo="" group-title="SPANISH",24/7 Lenox Hill
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26257&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Cobra Kai" tvg-logo="" group-title="SPANISH",24/7 Cobra Kai
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26262&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Jack Ryan" tvg-logo="" group-title="SPANISH",24/7 Jack Ryan
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26263&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MacGyver " tvg-logo="" group-title="SPANISH",24/7 MacGyver 
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26264&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Raised By Wolves" tvg-logo="" group-title="SPANISH",24/7 Raised By Wolves
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26265&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="24/7 XIII The Series" tvg-logo="" group-title="SPANISH",24/7 XIII The Series
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26266&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Locke and  Key" tvg-logo="" group-title="SPANISH",24/7 Locke and  Key
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26258&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Maldita" tvg-logo="" group-title="SPANISH",24/7 Maldita
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26259&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Seal Team" tvg-logo="" group-title="SPANISH",24/7 Seal Team
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26260&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Snowpiercer  Rompenieves" tvg-logo="" group-title="SPANISH",24/7 Snowpiercer  Rompenieves
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26261&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="24/7 ICE" tvg-logo="" group-title="SPANISH",24/7 ICE
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26255&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Chicago Fire" tvg-logo="" group-title="SPANISH",24/7 Chicago Fire
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26230&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Pandemia: como prevenir un brote" tvg-logo="" group-title="SPANISH",24/7 Pandemia: como prevenir un brote
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26222&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Hunters" tvg-logo="" group-title="SPANISH",24/7 Hunters
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26196&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Navy Investigacion Criminal" tvg-logo="" group-title="SPANISH",24/7 Navy Investigacion Criminal
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26197&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="24/7 NCIS Los Angeles" tvg-logo="" group-title="SPANISH",24/7 NCIS Los Angeles
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26198&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SWAT" tvg-logo="" group-title="SPANISH",24/7 SWAT
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26199&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="24/7 The Mandalorian" tvg-logo="" group-title="SPANISH",24/7 The Mandalorian
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26166&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Messiah" tvg-logo="" group-title="SPANISH",24/7 Messiah
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26161&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dexter" tvg-logo="" group-title="SPANISH",24/7 Dexter
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26613&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Mr Robot" tvg-logo="" group-title="SPANISH",24/7 Mr Robot
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26614&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="24/7 The Witcher" tvg-logo="" group-title="SPANISH",24/7 The Witcher
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26162&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Arrow" tvg-logo="" group-title="SPANISH",24/7 Arrow
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26607&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Batwoman" tvg-logo="" group-title="SPANISH",24/7 Batwoman
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26608&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Bodyguard" tvg-logo="" group-title="SPANISH",24/7 Bodyguard
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26609&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Ballers" tvg-logo="" group-title="SPANISH",24/7 Ballers
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26610&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Atípico" tvg-logo="" group-title="SPANISH",24/7 Atípico
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26600&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Good Doctor" tvg-logo="" group-title="SPANISH",24/7 Good Doctor
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26601&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Los Soprano" tvg-logo="" group-title="SPANISH",24/7 Los Soprano
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26602&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="24/7 See" tvg-logo="" group-title="SPANISH",24/7 See
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26604&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="24/7 The Mandalorian" tvg-logo="" group-title="SPANISH",24/7 The Mandalorian
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26605&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="IBERALIA TV" tvg-logo="" group-title="SPANISH",IBERALIA TV
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=420&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="IBERALIA TV FULL HD" tvg-logo="" group-title="SPANISH",IBERALIA TV FULL HD
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=3845&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="Historia" tvg-logo="" group-title="SPANISH",Historia
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=419&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="Historia FULL HD" tvg-logo="" group-title="SPANISH",Historia FULL HD
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=3844&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="CULTURA" tvg-logo="" group-title="SPANISH",CULTURA
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=465&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="VIDA RTV" tvg-logo="" group-title="SPANISH",VIDA RTV
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=25856&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="TVCRISTIANA" tvg-logo="" group-title="SPANISH",TVCRISTIANA
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=25860&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="TV NACIONAL 6" tvg-logo="" group-title="SPANISH",TV NACIONAL 6
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=25862&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="TV NACIONAL 5" tvg-logo="" group-title="SPANISH",TV NACIONAL 5
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=25863&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="TV NACIONAL 4" tvg-logo="" group-title="SPANISH",TV NACIONAL 4
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=25864&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="TV NACIONAL 2" tvg-logo="" group-title="SPANISH",TV NACIONAL 2
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=25868&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="TV NACIONAL 1" tvg-logo="" group-title="SPANISH",TV NACIONAL 1
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=25859&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="TEN" tvg-logo="" group-title="SPANISH",TEN
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=25869&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="Realmadrid TV HD" tvg-logo="" group-title="SPANISH",Realmadrid TV HD
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=25867&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT NETWORK" tvg-logo="" group-title="SPANISH",PARAMOUNT NETWORK
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=25871&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="DMAX" tvg-logo="" group-title="SPANISH",DMAX
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=25857&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="DKISS" tvg-logo="" group-title="SPANISH",DKISS
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=25866&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="CANAL MÃLAGA" tvg-logo="" group-title="SPANISH",CANAL MÃLAGA
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=25858&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="BeMad tv HD" tvg-logo="" group-title="SPANISH",BeMad tv HD
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=25870&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="atreseries HD" tvg-logo="" group-title="SPANISH",atreseries HD
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=25865&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="101 TV" tvg-logo="" group-title="SPANISH",101 TV
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=25861&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="MUSICA" tvg-logo="" group-title="SPANISH",MUSICA
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=464&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES" tvg-logo="" group-title="SPANISH",DEPORTES
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=459&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="MEZZO LIVE HD" tvg-logo="" group-title="SPANISH",MEZZO LIVE HD
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=369&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="Mezzo" tvg-logo="" group-title="SPANISH",Mezzo
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=446&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="Classica" tvg-logo="" group-title="SPANISH",Classica
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=404&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="MTV ESPANA" tvg-logo="" group-title="SPANISH",MTV ESPANA
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=447&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="BEINLALIGA 1 (SOLO EVENTOS)" tvg-logo="" group-title="SPANISH",BEINLALIGA 1 (SOLO EVENTOS)
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=425&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="BEINLALIGA1 (SOLO EVENTOS)" tvg-logo="" group-title="SPANISH",BEINLALIGA1 (SOLO EVENTOS)
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=387&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="BEINLALIGA3 (SOLO EVENTOS)" tvg-logo="" group-title="SPANISH",BEINLALIGA3 (SOLO EVENTOS)
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=389&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="BEINLALIGA5 (SOLO EVENTOS)" tvg-logo="" group-title="SPANISH",BEINLALIGA5 (SOLO EVENTOS)
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=391&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="BEINLALIGA6 (SOLO EVENTOS)" tvg-logo="" group-title="SPANISH",BEINLALIGA6 (SOLO EVENTOS)
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=392&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="NOVELAS TV" tvg-logo="" group-title="SPANISH",NOVELAS TV
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26077&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="#VAMOS HEVC" tvg-logo="" group-title="SPANISH",#VAMOS HEVC
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26068&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="TOROS HEVC" tvg-logo="" group-title="SPANISH",TOROS HEVC
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26071&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHIC HEVC" tvg-logo="" group-title="SPANISH",NATIONAL GEOGRAPHIC HEVC
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26070&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD HEVC" tvg-logo="" group-title="SPANISH",NAT GEO WILD HEVC
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26069&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="M.SERIES HEVC" tvg-logo="" group-title="SPANISH",M.SERIES HEVC
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26063&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="M.ESTRENOS HEVC" tvg-logo="" group-title="SPANISH",M.ESTRENOS HEVC
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26064&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="M.DEPORTES HEVC" tvg-logo="" group-title="SPANISH",M.DEPORTES HEVC
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26066&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="M.COMEDIA HEVC" tvg-logo="" group-title="SPANISH",M.COMEDIA HEVC
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26062&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="M.ACCION HEVC" tvg-logo="" group-title="SPANISH",M.ACCION HEVC
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26061&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="LALIGA TV HEVC" tvg-logo="" group-title="SPANISH",LALIGA TV HEVC
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26065&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="INTERECONOMIA" tvg-logo="" group-title="SPANISH",INTERECONOMIA
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26060&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="CASTILLA LA MANCHA" tvg-logo="" group-title="SPANISH",CASTILLA LA MANCHA
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=26059&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="ENTRETENIMIENTO" tvg-logo="" group-title="SPANISH",ENTRETENIMIENTO
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=461&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="GENERALISTAS" tvg-logo="" group-title="SPANISH",GENERALISTAS
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=466&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="NIOS" tvg-logo="" group-title="SPANISH",NIOS
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=463&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
+#EXTINF:-1 tvg-id="" tvg-name="PELCULA" tvg-logo="" group-title="SPANISH",PELCULA
+http://145ee48ded8e9ae673b293fcd960878c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=169766&s=CT4QKN9PQW&id=460&h=23be645521d3c24aa7e54f1d3285989f3b4aaa96&n=1623652481&i=212.102.48.14
